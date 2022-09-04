@@ -9,8 +9,7 @@ I’m a software engineer specializing in building (and occasionally designing) 
 *   🌍  I'm based in Sri lanka
 *   🖥️  See my portfolio at [piramilan.com](http://piramilan.com/)
 *   ✉️  You can contact me at [hello@piramilan.com](mailto:hello@piramilan.com)
-*   🧠  I'm learning Blockchain, Web3.0 and Smart Contract<a href="https://www.github.com/Piramilan" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Piramilan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
+*   🧠  I'm learning Blockchain, Web3.0 and Smart Contract
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
