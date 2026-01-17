@@ -7,8 +7,8 @@ Software Engineer
 I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible websites.
 
 *   🌍  I'm based in Sri lanka
-*   🖥️  See my portfolio at [piramilan.com](https://milan.vercel.app/)
-*   ✉️  You can contact me at [hello@piramilan.com](mailto:hello@piramilan.com)
+*   🖥️  See my portfolio at [findmilan.ca](https://findmilan.ca/)
+*   ✉️  You can contact me at [milan@findmilan.ca](mailto:milan@findmilan.ca)
 *   🧠  I'm learning Blockchain, Web3.0 and Smart Contract
 <br/>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
